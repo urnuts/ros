@@ -71,7 +71,7 @@ echo -e "\nIf you continue, your disk will be formatted and no data will be pres
 confirm || exit -1
 
 echo "installing packages"
-yum -y install wget
+apt -y install wget
 
 echo "download image"
 wget ${ROUTEROS_URL} -O chr.img.zip
