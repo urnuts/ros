@@ -1,7 +1,7 @@
 # VPS安装RouterOSs：
 
      wget --no-check-certificate https://raw.githubusercontent.com/urnuts/ros/main/RouterOS.sh && chmod +x RouterOS.sh  \
-     //centos先执行执行：sed -i 's/apt/yum/g' /root/RouterOS.sh \
+       //centos先执行执行：sed -i 's/apt/yum/g' /root/RouterOS.sh \
      bash RouterOS.sh \
 
     # PVE/EXSI，恩山有L6授权的镜像
@@ -10,7 +10,7 @@
     # wr330/wr1200js刷RB750Gr3参考恩山
     # 建议直接购买ros硬路由/二手也行
 
-
+<code>
 1. 本地ros配置pppoe并上网； 获取license fuyu  
   //pppoe断网重拨
   //pppoe拨号后更新ip
@@ -25,4 +25,4 @@
    //cn list,gf.w list
    // proxy--本地网卡，及内网ip段
    
-   //标记 / 劫持53端口
+   //标记 / 劫持53端口</code>
