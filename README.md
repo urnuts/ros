@@ -11,6 +11,7 @@
     # 建议直接购买ros硬路由/二手也行
 
 <code>
+     
 1. 本地ros配置pppoe并上网； 获取license fuyu  
   //pppoe断网重拨
   //pppoe拨号后更新ip
@@ -21,4 +22,5 @@
    //创建内网
    //cn list,gf.w list
    // proxy--本地网卡，及内网ip段
-   //标记 / 劫持53端口</code>
+   //标记 / 劫持53端口
+</code>
