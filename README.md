@@ -1,3 +1,5 @@
+ </code>
+
 # Debian/Ubuntu 直接安装RouterOS
  wget --no-check-certificate https://raw.githubusercontent.com/urnuts/ros/main/RouterOS.sh && chmod +x RouterOS.sh && bash RouterOS.sh
      
